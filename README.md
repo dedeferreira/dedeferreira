@@ -7,10 +7,14 @@
 
 ### Tecnologias que eu usso no meu dia 
 <div style="display: inline_block"><br/>
- <img align="center" alt=html5 src=https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white>
-  <img align="center" alt=css3 src=https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white>
-    <img align="center" alt=css3 src=https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white>
- </div><br/>
+  <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+  <img align="center" alt="css3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+  <img align="center" alt="bootstrap" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">
+  <img align="center" alt="javascript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+  <img align="center" alt="delphi" src="https://img.shields.io/badge/Delphi-E32C2E?style=for-the-badge&logo=delphi&logoColor=white">
+  <img align="center" alt="twig" src="https://img.shields.io/badge/Twig-FFDC00?style=for-the-badge&logo=twig&logoColor=black">
+  <img align="center" alt="python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+</div><br/>
 
  Apaixonado por tecnologia e inovações, curso Sistemas para Internet - FIAP, cuso voltado para desenvolvedor front-end, mobile e e-commerce
 
