@@ -1,7 +1,7 @@
 ### Oiii eu sou o André Rosa Ferreira Filho 🖐️
 [![email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](arff.ferreira1@gmail.com)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andre-rosa-ferreira-filho/)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_androsa/)
+
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dedeferreira&show_icons=true&theme=radical)
 
@@ -16,5 +16,7 @@
   <img align="center" alt="python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
 </div><br/>
 
- Apaixonado por tecnologia e inovações, curso Sistemas para Internet - FIAP, cuso voltado para desenvolvedor front-end, mobile e e-commerce
+Criativo e curioso, tenho paixão por aprender constantemente e explorar novas ideias. Vejo a tecnologia 
+como uma ferramenta poderosa para simplificar e solucionar problemas reais de maneira eficiente e 
+inovadora.  
 
